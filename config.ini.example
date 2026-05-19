@@ -1,8 +1,8 @@
 [Telegram]
-BOT_TOKEN = 7992869917:AAHXX3MU66CDGCEC7VkCDDv60A--xui05OI
+BOT_TOKEN = 
 
 [Email]
 SMTP_SERVER = smtp.mail.ru
 SMTP_PORT = 465
-EMAIL_ADDRESS = imangulov-anatol@mail.ru
-EMAIL_PASSWORD = kkHxsq8fTr3auKNq6JUR
+EMAIL_ADDRESS = @mail.ru
+EMAIL_PASSWORD = 
