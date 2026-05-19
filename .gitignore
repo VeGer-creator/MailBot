@@ -1,0 +1,34 @@
+# Секреты и конфиги
+.env
+config.ini
+*.secret
+*.key
+*.pem
+
+# Виртуальное окружение
+.venv/
+venv/
+env/
+
+# Файлы IDE
+.idea/
+*.iml
+.vscode/
+
+# Базы данных
+*.db
+*.sqlite
+*.sqlite3
+
+# Загруженные пользователем файлы
+uploads/*
+!uploads/.gitkeep
+
+# Логи и временные файлы
+*.log
+*.tmp
+*.pyc
+__pycache__/
+
+# Отчёты парсера (которые вы уже удалили)
+*_parsed_*.txt
